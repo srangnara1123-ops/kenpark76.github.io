@@ -6,6 +6,9 @@
   <channel id="C01582.tving">
     <display-name>JTBC</display-name>
   </channel>
+	<channel id="C52286.tving">
+    <display-name>KBS24</display-name>
+  </channel>
   <channel id="C00579.tving">
     <display-name>Mnet</display-name>
   </channel>
